@@ -1,2 +1,2 @@
 # spicy-lilo-website
-Website for Spicy Lilo
+Website for a chef called Spicy Lilo
